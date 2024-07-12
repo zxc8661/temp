@@ -1,0 +1,9 @@
+diff a/temp_git1.html b/temp_git1.html	(rejected hunks)
+@@ -6,6 +6,6 @@
+     <title>Document</title>
+   </head>
+   <body>
+-    test1 test2 test3 test4
++    test1 test2 test3 test4 test5
+   </body>
+ </html>
